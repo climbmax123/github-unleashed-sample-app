@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.3](https://github.com/climbmax123/github-unleashed-sample-app/compare/v0.0.2...v0.0.3) (2025-06-24)
+
+
+### Bug Fixes
+
+* README.md ([4cd1d9c](https://github.com/climbmax123/github-unleashed-sample-app/commit/4cd1d9c7536ad36cd9f1405eac5e28db063551ca))
+
 ## [0.0.2](https://github.com/climbmax123/github-unleashed-sample-app/compare/v0.0.1...v0.0.2) (2025-06-24)
 
 
