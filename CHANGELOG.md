@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.0](https://github.com/climbmax123/github-unleashed-sample-app/compare/v0.0.3...v0.1.0) (2025-06-24)
+
+
+### Features
+
+* Create test.txt ([95766ed](https://github.com/climbmax123/github-unleashed-sample-app/commit/95766ed106833f3fe2db0d8ddadfba002383ef39))
+* Create test2.txt ([aaa5d89](https://github.com/climbmax123/github-unleashed-sample-app/commit/aaa5d899a6c7d784809b0a428d53dfc4e9f21e0e))
+
 ## [0.0.3](https://github.com/climbmax123/github-unleashed-sample-app/compare/v0.0.2...v0.0.3) (2025-06-24)
 
 
