@@ -6,6 +6,7 @@
 This repository contains a sample application used for the Workshop "GitHub Unleashed: Hands-on and Best Practices".
 It's purpose is to demonstrate the EBCONT GitHub experience.
 
+
 - Organization has a Custom Property "code-rulesets" with values:
   - "branch-default", "branch-review", "branch-conventional-commits" and "tag-default"
 - Branch & tag rulesets are activated on the repository through the chosen custom property value(s)
