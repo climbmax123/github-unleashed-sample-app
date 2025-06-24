@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.2](https://github.com/climbmax123/github-unleashed-sample-app/compare/v0.0.1...v0.0.2) (2025-06-24)
+
+
+### Bug Fixes
+
+* **deps:** bump org.springframework.boot:spring-boot-starter-logging from 2.7.16 to 3.5.3 ([71c1768](https://github.com/climbmax123/github-unleashed-sample-app/commit/71c176827abc27a665aa7a8c3436c1d92ca3c32d))
+
 ## 0.0.1 (2025-06-24)
 
 
